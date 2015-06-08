@@ -1,5 +1,4 @@
-# bangpypers-intro-to-ml
-Introduction to Machine Learning
+# Introduction to Machine Learning
 
 ### Prerequisites
 * python 2.7
