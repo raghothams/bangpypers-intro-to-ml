@@ -8,7 +8,7 @@
 
 Clone the git repository
 
-    $ git clone git@github.com:raghothams/bangpypers-intro-to-ml.git
+    $ git clone https://github.com/raghothams/bangpypers-intro-to-ml.git
 
 Create a new virtual environment using virtualenv
 
