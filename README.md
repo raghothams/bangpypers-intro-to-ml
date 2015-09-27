@@ -31,3 +31,7 @@ Please download the below files:
 * train.csv
 * test.csv
 * sampleSubmission
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/raghothams/bangpypers-intro-to-ml/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
